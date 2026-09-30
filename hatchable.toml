@@ -1,5 +1,0 @@
-# Hatchable project manifest. This file marks the folder as a
-# Hatchable project and declares the services it uses.
-# Reference: https://hatchable.com/docs/developers/config
-name = "Periyapalayam Veerapandiyar Guest House"
-description = "Premium, responsive hospitality website for Periyapalayam Veerapandiyar Guest House with room showcase, booking enquiry workflow, gallery, contact CTAs, SEO foundation, and admin-ready private booking data."

@@ -1,0 +1,1 @@
+window.SITE_CONFIG={brand:'Veerapandiyar Guest House A/C',fullBrand:'Periyapalayam Veerapandiyar Guest House',location:'Near Bhavani Amman Temple, Periyapalayam',phones:['7401338883','7401339993','8428338999'],mapUrl:'https://maps.app.goo.gl/xiQ2jdWKPAii57Pk6'};
